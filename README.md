@@ -2,8 +2,7 @@
 ## Meu primeiro projeto utilizando a stack NodeJS, ReactJS e ReactNative.
 ### Foi desenvolvido um software baseado no dropbox, os arquivos são armazenados em tempo real no MongoDB
 
-## BackEnd
-### Desenvolvido em NodeJS
+### BackEnd - Desenvolvido em NodeJS
 ##### Principais bibliotecas
 - **Expess** -> Trabalhando com rotas
 - **Mongoose** -> Banco de dados com MongoDB
@@ -12,8 +11,7 @@
 - **Cors** -> Definidno a segurança da API
 ![](mongo.png)
 
-## FrontEnd - Web
-### Desenvolvido em ReactJS
+### FrontEnd - Web - Desenvolvido em ReactJS
 ##### Principais bibliotecas
 - **Axios** -> Responsável por consumir a api
 - **React Router Dom** -> Responsável pelo funcionamento das rotas
@@ -24,8 +22,7 @@
 
 ![](frontWeb.png)
 
-## FrontEnd - Mobile
-### Desenvolvido com ReactNative
+### FrontEnd - Mobile - Desenvolvido com ReactNative
 ##### Principais bibliotecas
 - **Axios** -> Responsável por consumir a api
 - **Community/async-storage** -> Armazenar arquivos no banco de dados local
