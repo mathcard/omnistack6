@@ -1,6 +1,6 @@
 # Semana Omnistack6 - RocketSeat
 ## Meu primeiro projeto utilizando a stack NodeJS, ReactJS e ReactNative.
-## Foi desenvolvido um software baseado no dropbox, os arquivos são armazenados em tempo real no MongoDB
+### Foi desenvolvido um software baseado no dropbox, os arquivos são armazenados em tempo real no MongoDB
 
 ## BackEnd
 ### Desenvolvido em NodeJS
